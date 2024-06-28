@@ -27,8 +27,15 @@ Technology Stack
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
+![Demo](https://github.com/kusha2000/Bike-Company-Management-System-CLI/assets/127003267/766342ca-c5b4-4258-9e85-46247766683e)
 
 
 <br><br>
 <h2>This is the screenshots of the system</h2><br><br>
+
+![1](https://github.com/kusha2000/Bike-Company-Management-System-CLI/assets/127003267/c4d4946f-292f-439e-86b6-78bcfccd7308)<br><br>
+![2](https://github.com/kusha2000/Bike-Company-Management-System-CLI/assets/127003267/8c74e4a4-bc7b-44a8-8910-db7f0a43c4f8)<br><br>
+![3](https://github.com/kusha2000/Bike-Company-Management-System-CLI/assets/127003267/63935709-a352-4700-a02e-a71272d5f106)<br><br>
+![4](https://github.com/kusha2000/Bike-Company-Management-System-CLI/assets/127003267/f3fde947-3dce-41b9-8682-fe7022b24c56)<br><br>
+![5](https://github.com/kusha2000/Bike-Company-Management-System-CLI/assets/127003267/229426f5-d76b-4562-9852-73ec2359e238)<br><br>
 
