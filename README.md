@@ -27,7 +27,8 @@ Technology Stack
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/kusha2000/Bike-Company-Management-System-CLI/assets/127003267/766342ca-c5b4-4258-9e85-46247766683e)
+
+https://github.com/user-attachments/assets/3c7dff16-e72d-4c1f-badf-8cc2025162a8
 
 
 <br><br>
